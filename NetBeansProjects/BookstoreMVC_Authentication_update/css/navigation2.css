@@ -1,0 +1,26 @@
+
+/*
+
+
+Student Info: Name=Chapadia Shruti, ID=15574CS
+
+Subject: CS526(B)_HWNo3_Summer_2016
+
+Author: shruti
+
+Filename: navigation2.css
+
+Date and Time: Jul 27, 2016 10:35:59 AM
+
+Project Name: BookstoreMVC_Authentication_update
+
+
+*/
+
+/* 
+    Created on : Jul 27, 2016, 10:35:59 AM
+    Author     : shruti
+*/
+
+nav a { text-decoration: none; color: blue; background-color: #dddddd}
+nav a:hover { text-decoration: underline;  }

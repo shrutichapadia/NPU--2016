@@ -1,0 +1,56 @@
+
+/*
+
+
+Student Info: Name=Chapadia Shruti, ID=15574CS
+
+Subject: CS526(B)_HWNo3_Summer_2016
+
+Author: shruti
+
+Filename: layout.css
+
+Date and Time: Jul 27, 2016 10:35:45 AM
+
+Project Name: BookstoreMVC_Authentication_update
+
+
+*/
+
+/* 
+    Created on : Jul 27, 2016, 10:35:45 AM
+    Author     : shruti
+*/
+
+h1
+{
+    text-shadow: 5px 5px 5px #FF0000;
+} 
+
+#sidebar {
+    float: left;
+    width: 180px;
+    border:2px solid;
+    background-color:#b0e0e6;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+#main {
+    margin-left: 10px;
+    padding-left: 10px;
+    float: left;
+    width: 500px;
+    height: 450px;
+    border:2px solid;
+    background-color:#b0e0e6;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+table
+{
+    border-collapse:collapse;
+}
+table,th, td
+{
+    border: 1px solid black;
+}

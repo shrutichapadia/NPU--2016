@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/controllers/admin/logout.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/register_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/login_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/models/users_repository.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/controllers/admin/checkout.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/orderprocess_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/logout_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/book_list_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/controllers/admin/cart.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/navigation.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/page.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/checkout_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/controllers/guest/view_book.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/index.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/cart_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/views/add_book_view.php</file>
+            <file>file:/Users/shruti/NetBeansProjects/BookstoreMVC_Authentication_update/controllers/admin/orderprocess.php</file>
+        </group>
+    </open-files>
+</project-private>
